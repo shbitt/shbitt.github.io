@@ -15,4 +15,4 @@ h2 {
 }
 
 .btn-black{background-color:rgb(129, 0, 180);color: #FFF;}
-.btn-black:hover{color: rgb(151, 0, 211);}
+.btn-black:hover{background-color: rgb(151, 0, 211);color: #FFF;}
