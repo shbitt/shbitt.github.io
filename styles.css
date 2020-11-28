@@ -1,7 +1,10 @@
-
-
 p {
     color: #1A4294;
+}
+
+p1 {
+    color: #7e7e7e;
+    
 }
 
 h1 {
@@ -9,10 +12,42 @@ h1 {
 
 }
 
-h2 {
-    color: #1A4294;
+h3 {
+    color: #370757;
 
+}
+
+img.shbitt_logo {
+    height: 65%;
+    width: 65%;
+  }
+
+.card-deck {
+    margin: 10px;
+    padding: 0px;
 }
 
 .btn-black{background-color:rgb(129, 0, 180);color: #FFF;}
 .btn-black:hover{background-color: rgb(151, 0, 211);color: #FFF;}
+
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width:  50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 3px;
+    border-radius: 50%;
+    background: #370757;
+    color: white;
+  }
+  
+.fa:hover {
+      opacity: 0.9;
+      text-decoration: none;
+      background: #370757;
+      color: white;
+      
+  }
+  
