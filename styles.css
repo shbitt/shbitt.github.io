@@ -1,3 +1,27 @@
+/* slider genişliği */
+::-webkit-scrollbar {
+    opacity: 0.9;
+    width: 7px;
+  }
+  
+  /* slider döşemesi */
+::-webkit-scrollbar-track {
+    opacity: 0.5;
+    background: #f1f1f1; 
+  }
+   
+  /* slider tutacağı */
+::-webkit-scrollbar-thumb {
+    opacity: 0.9;
+    background: #888; 
+  }
+  
+  /* slider tutacağının hoverı */
+::-webkit-scrollbar-thumb:hover {
+    opacity: 0.9;
+    background: #555; 
+  }
+
 body {
     background: url('/images/background_2.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -8,6 +32,7 @@ body {
 
 p {
     color: #1A4294;
+    
 }
 
 p1 {
@@ -19,7 +44,7 @@ h1 {
     color: #1A4294;
     
     font-family: 'Raleway', sans-serif;
-    font-size: 55px;
+    font-size: 3vw;
     letter-spacing: 0px;
 
 }
@@ -39,6 +64,7 @@ img.shbitt_logo {
     margin: 10px;
     padding: 0px;
 }
+
 
 
 .btn-sari{background-color:rgb(218, 159, 32);color: #FFF;}
