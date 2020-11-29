@@ -1,3 +1,11 @@
+body {
+    background: url('/images/background_2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
 p {
     color: #1A4294;
 }
@@ -9,6 +17,10 @@ p1 {
 
 h1 {
     color: #1A4294;
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    letter-spacing: 0px;
 
 }
 
@@ -20,6 +32,7 @@ h3 {
 img.shbitt_logo {
     height: 65%;
     width: 65%;
+    margin: 0px;
   }
 
 .card-deck {
@@ -27,8 +40,12 @@ img.shbitt_logo {
     padding: 0px;
 }
 
-.btn-black{background-color:rgb(129, 0, 180);color: #FFF;}
-.btn-black:hover{background-color: rgb(151, 0, 211);color: #FFF;}
+
+.btn-sari{background-color:rgb(218, 159, 32);color: #FFF;}
+.btn-sari:hover{background-color: rgb(238, 171, 27);color: #FFF;}
+
+.btn-mor{background-color:rgb(129, 0, 180);color: #FFF;}
+.btn-mor:hover{background-color: rgb(151, 0, 211);color: #FFF;}
 
 
 .fa {
