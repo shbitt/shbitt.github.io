@@ -77,13 +77,13 @@ img.shbitt_logo {
 }
 
 
+.btn-yesil{background-color:rgb(69, 139, 22);color: #FFF;}
+.btn-yesil:hover{background-color: rgb(81, 161, 27);color: #FFF;}
 
 
 .btn-sari{background-color:rgb(218, 159, 32);color: #FFF;}
 .btn-sari:hover{background-color: rgb(238, 171, 27);color: #FFF;}
 
-.btn-yesil{background-color:rgb(69, 139, 22);color: #FFF;}
-.btn-yesil:hover{background-color: rgb(81, 161, 27);color: #FFF;}
 
 .btn-mor{background-color:rgb(129, 0, 180);color: #FFF;}
 .btn-mor:hover{background-color: rgb(151, 0, 211);color: #FFF;}
