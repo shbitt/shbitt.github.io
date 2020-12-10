@@ -31,40 +31,34 @@ body {
   }
 
 p {
-    color: #1A4294;
-    
+    color: #1A4294;    
 }
 
 p1 {
-    color: #7e7e7e;
-    
+    color: #7e7e7e;    
 }
 
 h1 {
-    color: #1A4294;
-    
+    color: #1A4294;    
     font-family: 'Raleway', sans-serif;
     font-size: 3vw;
     letter-spacing: 0px;
-
 }
 
 h3 {
     color: #370757;
-
 }
+
 
 img.shbitt_logo {
     height: 65%;
     width: 65%;
     margin: 0px;
   }
-
+  
 .card-deck {
     margin: 10px;
-    padding: 0px;
-     
-      
+    padding: 0px;    
 }
 
 .card{
