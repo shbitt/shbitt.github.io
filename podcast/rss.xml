@@ -7,9 +7,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
 
 <channel>
     <title>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</title>
-    <itunes:subtitle></itunes:subtitle>        
     <link>http://shbitt.github.io</link>
-    <atom:link href="http://shbitt.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>    
     <description>KSBÜ Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu, Üniversite öğrencilerini hesaplamalı bilimler konusunda yetkin ve farkındalığa erişmiş bireyler haline getirmek ve gelişen sağlık teknolojilerini sadece kullanan değil üreten kimseler olmasına katkı sağlamayı misyon edinen bir üniversite öğrenci topluluğudur.</description>
     <language>tr</language>
     <itunes:category text="Technology">
@@ -46,7 +44,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SY5CGg2VB3M</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/saglikta_yeni_urun_Servis_cover.jpg"/>
-            <pubDate>14 Dec 2020 20:00:00</pubDate>
+            <pubDate>Mon, 14 Dec 2020 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B02%29%20Sa%C4%9Fl%C4%B1kta%20Yeni%20%C3%9Cr%C3%BCn%20%26%20Servis%20Tasar%C4%B1m%C4%B1_%20Serkan%20T%C3%BCrkeli.mp3"/>
             <itunes:duration>6571</itunes:duration>
     </item>
@@ -64,7 +62,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1GE3MJU2bdA</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/saglikta_veri_bilimi_yz_cover.jpg"/>
-            <pubDate>21 Dec 2020 20:00:00</pubDate>
+            <pubDate>Mon, 21 Dec 2020 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B04%29%20Veri%20Bilimi%20ve%20Yapay%20Zekan%C4%B1n%20Sa%C4%9Fl%C4%B1kta%20Kullan%C4%B1m%C4%B1_%20Sedat%20%C4%B0rgil%2C%20Onur%20Do%C4%9Fan%2C%20Salih%20Tutun.mp3"/>
             <itunes:duration>9345</itunes:duration>
     </item>
@@ -76,7 +74,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=pwnFenUKZrY</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/sayisal_saglik_cover.jpg"/>
-            <pubDate>28 Dec 2020 20:00:00</pubDate>
+            <pubDate>Mon, 28 Dec 2020 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B05%29%20Say%C4%B1sal%20Sa%C4%9Fl%C4%B1k_%20Banu%20Onaral%2C%20Ak%C4%B1n%20Altunba%C5%9F.mp3"/>
             <itunes:duration>6291</itunes:duration>
     </item>
@@ -88,7 +86,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=rTyHsTD2Kcg</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/yz_sagligi_degistirebilir_mi_cover.jpg"/>
-            <pubDate>18 Jan 2021 20:00:00</pubDate>
+            <pubDate>Mon, 18 Jan 2021 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B06%29%20Yapay%20Zeka%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCrebilir%20Mi_%20Melih%20Bulut%2C%20T%C3%BCrkay%20Kart.mp3"/>
             <itunes:duration>6326</itunes:duration>
     </item>
@@ -100,7 +98,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=u0d-Vs9Et4o</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/robotik_cerrahi_floresans_cover.jpg"/>
-            <pubDate>23 Jan 2021 10:00:00</pubDate>
+            <pubDate>Tue, 23 Jan 2021 07:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B07%29%20Robotik%20Cerrahi%20ve%20Floresans%20G%C3%B6r%C3%BCnt%C3%BCleme_%20Volkan%20Uyan%C4%B1k%2C%20Serkan%20Y%C4%B1lmaz.mp3"/>
             <itunes:duration>8491</itunes:duration>
     </item>
@@ -112,7 +110,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=xyfZIBkteco</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/klinik_uygulamalariyla_robotik_cerrahi_cover.jpg"/>
-            <pubDate>03 Feb 2021 10:00:00</pubDate>
+            <pubDate>Wed, 03 Feb 2021 07:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B08%29%20Klinik%20Uygulamalar%C4%B1yla%20Robotik%20Cerrahi_%20Murat%20%C3%96zdemir.mp3"/>
             <itunes:duration>3702</itunes:duration>
     </item>
@@ -125,7 +123,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=frwh1j8GAuQ</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/semir_beyaz_cover.jpg"/>
-            <pubDate>07 Feb 2021 20:00:00</pubDate>
+            <pubDate>Sun, 07 Feb 2021 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B09%29%20%C4%B0mm%C3%BCnoloji%2C%20Kanser%20ve%20Akademi_%20Semir%20Beyaz.mp3"/>
             <itunes:duration>8677</itunes:duration>
     </item>
