@@ -18,7 +18,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
     <itunes:image href="https://shbitt.github.io/images/shbitt_logo_kare.png"/>
     <itunes:keywords>sağlık,hesaplamalı,bilim,teknoloji</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</itunes:author>
+    <itunes:author>SHBİTT</itunes:author>
     <itunes:owner>
         <itunes:name>SHBİTT</itunes:name>
         <itunes:email>shbitt@hotmail.com</itunes:email>
