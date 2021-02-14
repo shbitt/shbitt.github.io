@@ -8,7 +8,7 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
 <channel>
     <title>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</title>
     <link>http://shbitt.github.io</link>
-    <description>KSBÜ Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu, Üniversite öğrencilerini hesaplamalı bilimler konusunda yetkin ve farkındalığa erişmiş bireyler haline getirmek ve gelişen sağlık teknolojilerini sadece kullanan değil üreten kimseler olmasına katkı sağlamayı misyon edinen bir üniversite öğrenci topluluğudur.</description>
+    <description>KSBÜ Sağlıkta Hesaplamalı Bilimler ve İnovatif Teknoloji Topluluğu, Üniversite öğrencilerini hesaplamalı bilimler konusunda yetkin ve farkındalığa erişmiş bireyler haline getirmek ve gelişen sağlık teknolojilerini sadece kullanan değil üreten kimseler olmasına katkı sağlamayı misyon edinen bir üniversite öğrenci topluluğudur.</description>
     <language>tr</language>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
