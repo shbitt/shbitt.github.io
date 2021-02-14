@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss 
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" 
+xmlns:spotify="https://www.spotify.com/ns/rss">
+
 
 <channel>
-    <title>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu (SHBİTT)</title>
+    <title>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</title>
     <itunes:subtitle></itunes:subtitle>        
     <link>http://shbitt.github.io/</link>
     <atom:link href="http://shbitt.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>    
