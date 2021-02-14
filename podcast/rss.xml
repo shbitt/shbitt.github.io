@@ -8,17 +8,19 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
 <channel>
     <title>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</title>
     <itunes:subtitle></itunes:subtitle>        
-    <link>http://shbitt.github.io/</link>
+    <link>http://shbitt.github.io</link>
     <atom:link href="http://shbitt.github.io/podcast/rss.xml" rel="self" type="application/rss+xml"/>    
     <description>KSBÜ Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu, Üniversite öğrencilerini hesaplamalı bilimler konusunda yetkin ve farkındalığa erişmiş bireyler haline getirmek ve gelişen sağlık teknolojilerini sadece kullanan değil üreten kimseler olmasına katkı sağlamayı misyon edinen bir üniversite öğrenci topluluğudur.</description>
-    <language>tr-TR</language>
+    <language>tr</language>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-    <itunes:image href="https://avatars.githubusercontent.com/u/74631629?s=200&v=4"/>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://shbitt.github.io/images/shbitt_logo_kare.png"/>
     <itunes:keywords>sağlık,hesaplamalı,bilim,teknoloji</itunes:keywords>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:author>SHBİTT</itunes:author>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</itunes:author>
     <itunes:owner>
         <itunes:name>SHBİTT</itunes:name>
         <itunes:email>shbitt@hotmail.com</itunes:email>
@@ -32,12 +34,12 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_9Eta6klfGE</guid>
             <author>Sağlıkta Hesaplamali Bilimler ve İnovatif Teknoloji Topluluğu</author>
             <itunes:image href="http://shbitt.github.io/podcast/cover_gorselleri/hesaplamali_cerrahi_cover.jpg"/>
-            <pubDate>Tue, 24 Nov 2020 20:00:00</pubDate>
+            <pubDate>Tue, 24 Nov 2020 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B01%29%20Hesaplamal%C4%B1%20Cerrahi%20_%20Faik%20YAYLAK.mp3"/>
             <itunes:duration>3629</itunes:duration>
     </item>
     <item>
-            <title>(S01B02) Sağlıkta Yeni Ürün & Servis Tasarımı - Serkan Türkeli</title>
+            <title>(S01B02) Sağlıkta Yeni Ürün ve Servis Tasarımı - Serkan Türkeli</title>
             <description><![CDATA[İTÜ Öğretim Görevlisi ve TESODEV Kurucusu Serkan Türkeli hocamız ile “Sağlıkta Yeni Ürün&Servis Tasarımı” konulu webinar gerçekleştridik.]]></description>
             <link>https://www.youtube.com/watch?v=SY5CGg2VB3M</link>
             <itunes:explicit>no</itunes:explicit>
