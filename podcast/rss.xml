@@ -126,12 +126,11 @@ xmlns:spotify="https://www.spotify.com/ns/rss">
             <pubDate>Sun, 07 Feb 2021 17:00:00 GMT</pubDate>
             <enclosure type="audio/mpeg" url="https://archive.org/download/shbitt_webinar_sezon1/%28S01B09%29%20%C4%B0mm%C3%BCnoloji%2C%20Kanser%20ve%20Akademi_%20Semir%20Beyaz.mp3"/>
             <itunes:duration>8677</itunes:duration>
-    </item>
-    
+    </item>    
     <item>
 			<title>(S01B10) Cilt Altı Çipler ve Akıllı Şehirler - Halit Koşmaz</title>
             <description><![CDATA[
-			KSBÜ SHBİTT olarakKonuğumuz Halit Koşmaz Bey olacak. Kendisi İsveç Yerel Yönetimler ve Bölgeler Birliğinde IT Enterprise & Çözüm Mimarı olarak çalışmaktadır. Etkinlikte özellikle İsveç’te popüler olan cilt altına enjekte edilen çipler ve akıllı şehir uygulamalarını konuşacağız.]]></description>
+			KSBÜ SHBİTT olarak konuğumuz Halit Koşmaz'dı. Kendisi İsveç Yerel Yönetimler ve Bölgeler Birliğinde IT Enterprise & Çözüm Mimarı olarak çalışmaktadır. Etkinlikte özellikle İsveç’te popüler olan cilt altına enjekte edilen çipler ve akıllı şehir uygulamalarını konuştuk.]]></description>
             <link>https://www.youtube.com/watch?v=vqJozDikIVU</link>
             <itunes:explicit>no</itunes:explicit>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vqJozDikIVU</guid>
